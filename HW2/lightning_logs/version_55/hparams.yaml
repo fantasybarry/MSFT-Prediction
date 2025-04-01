@@ -1,0 +1,5 @@
+days: 30
+dropout: 0.38155917939826356
+input_channels: 20
+lr: 0.0009439363493505601
+num_filters: 64
